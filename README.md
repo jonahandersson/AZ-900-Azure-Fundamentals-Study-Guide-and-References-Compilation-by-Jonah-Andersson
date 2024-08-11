@@ -5,7 +5,7 @@ AZ-900-Azure Fundamentals Study Guide and References Compilation by Microsoft Ce
 ## Jonah Andersson's (Microsoft Certified Trainer's Study Tips)
 The following are my own personal experience + MCT-guided study tips when preparing for AZ-900 and (any Microsoft Certifications exam) 
 
-### Preparation 
+### Preparation Tips 
 - Follow that official Microsoft Learn path for the certification
 - Be familiar with the scope of the exam in terms of topics within the module of the exam
 - Be familiar with the study guides, exam practical info (online or test center)
@@ -16,10 +16,9 @@ The following are my own personal experience + MCT-guided study tips when prepar
 - Connect with fellow developers working with Azure as a cloud platform
 - Have fun learning and make sure of the following resources I recommend below  ⬇️
 
-
-### Jonah's Blog 
-- Read by Personal Journey on AZ-900 and AZ-204 on Blog [How to Pass Microsoft Certification AZ-204 Azure Developer Associate Exam : My Own Certification Journey](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
-
+### Blogs 
+- [Jonah Andersson's How to Pass Microsoft Certification AZ-204 Azure Developer Associate Exam: My Own Certification Journey](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
+- [Thomas Maurer's Study Guide for AZ-900 Azure Fundamentals](https://www.thomasmaurer.ch/2020/03/az-900-study-guide-microsoft-azure-fundamentals-2021/)
 
 ## Microsoft Learning Path and Learning Resources for AZ-900 
 
@@ -28,14 +27,20 @@ The following are my own personal experience + MCT-guided study tips when prepar
 - [Microsoft Official Study Guide for AZ-900, Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 - [Microsoft Exam Sandbox](https://www.starttest.com/ITDVersions/22.0.0.0/ITDStart.aspx?SVC=432ce17f-edef-4220-8496-cce8f482f90b)
 
+## Recommended Video Courses and Playlist Free on YouTube
 
-
-
-## Recommended Video Courses
-
-
+- [AZ-900 Azure Fundamentals by John Savill](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [AZ-900 Microsoft Azure Fundamentals Full Course by Adam Marczak](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
+- [Exam AZ-900 Microsoft Azure Fundamentals Study Guide by Tim Warner](https://www.youtube.com/watch?v=HfZ1kgHlrfg&list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv)
 
 ## Recommended Books for Learning Azure Fundamentals 
 
-- [Learning Microsoft Azure: Cloud Computing and Development Fundamentals by Jonah Andersson (O'Reilly ebook)](
-- 
+- [Learning Microsoft Azure: Cloud Computing and Development Fundamentals by Jonah Andersson (O'Reilly ebook)](https://www.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
+- [Learning Microsoft Azure: Cloud Computing and Development Fundamentals by Jonah Andersson (O'Reilly Paperback)](https://www.amazon.com/_/dp/1098113322)
+- [Azure Cookbook: Recipes to Create and Maintain Cloud Solutions in Azure](https://www.amazon.com/Azure-Cookbook-Recipes-Maintain-Solutions/dp/1098135792)
+- [Microsoft Azure Fundamentals Certification and Beyond by Steve Miles](https://www.amazon.com/Microsoft-Fundamentals-Certification-Beyond-hands/dp/1837630593) 
+
+## Practice Tests for AZ-900 
+
+- [Microsoft Learn AZ-900 Azure Fundamentals Practice Tests](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
+- [Pearson Practice Tests via O'Reilly's Learning Platform](https://learning.oreilly.com/certifications/9780137984688/)
