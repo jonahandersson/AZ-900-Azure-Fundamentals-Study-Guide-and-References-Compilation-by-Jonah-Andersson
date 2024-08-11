@@ -44,3 +44,6 @@ The following are my own personal experience + MCT-guided study tips when prepar
 
 - [Microsoft Learn AZ-900 Azure Fundamentals Practice Tests](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
 - [Pearson Practice Tests via O'Reilly's Learning Platform](https://learning.oreilly.com/certifications/9780137984688/)
+
+## Contribution and Got more items to add on this list? 
+  - Feel free to create Issues Request or contact [Jonah Andersson via LinkedIn](https://www.linkedin.com/in/jonahandersson)
