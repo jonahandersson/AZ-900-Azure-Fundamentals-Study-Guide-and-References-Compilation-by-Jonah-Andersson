@@ -14,6 +14,7 @@ The following are my own personal experience + MCT-guided study tips when prepar
 - Make use of the free trials and free accounts option on Microsoft Azure, if not, invest on Pay-as-You-Go (But watch out for costs!)
 - Join Azure communities and User Groups in your area
 - Connect with fellow developers working with Azure as a cloud platform
+- Practical Tips for the Microsoft Certification exams [Register and schedule an exam](https://learn.microsoft.com/en-us/credentials/certifications/register-schedule-exam)
 - Have fun learning and make sure of the following resources I recommend below  ⬇️
 
 ### Blogs 
@@ -27,11 +28,13 @@ The following are my own personal experience + MCT-guided study tips when prepar
 - [Microsoft Official Study Guide for AZ-900, Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 - [Microsoft Exam Sandbox](https://www.starttest.com/ITDVersions/22.0.0.0/ITDStart.aspx?SVC=432ce17f-edef-4220-8496-cce8f482f90b)
 
-## Recommended Video Courses and Playlist Free on YouTube
+## Recommended Video Courses and Playlist Free on YouTube or Free Course 
 
 - [AZ-900 Azure Fundamentals by John Savill](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [AZ-900 Microsoft Azure Fundamentals Full Course by Adam Marczak](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
 - [Exam AZ-900 Microsoft Azure Fundamentals Study Guide by Tim Warner](https://www.youtube.com/watch?v=HfZ1kgHlrfg&list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv)
+- [Learn with Tiago Costa - Microsoft Certifications, Paths, Exams and Resources - Free Course](https://learn.tiagocosta.com/courses/microsoft-certifications)
+- [Azure Real World Hand-on Training For Beginners by Ryan O'Connell - Free Udemy Course](https://www.udemy.com/course/azure-real-world-hand-on-training-for-beginners/)
 
 ## Recommended Books for Learning Azure Fundamentals 
 
@@ -46,4 +49,7 @@ The following are my own personal experience + MCT-guided study tips when prepar
 - [Pearson Practice Tests via O'Reilly's Learning Platform](https://learning.oreilly.com/certifications/9780137984688/)
 
 ## Contribution and Got more items to add on this list? 
-  - Feel free to create Issues Request or contact [Jonah Andersson via LinkedIn](https://www.linkedin.com/in/jonahandersson)
+  - I am sure there are more free resources to learn Microsoft Azure out there, if you are up for knowledge sharing is all about caring, please feel free to create Issues Request or contact [Jonah Andersson via LinkedIn](https://www.linkedin.com/in/jonahandersson) to add more items on these list that I missed.
+
+Thanks and enjoy this compilation! 
+Share and give credit to the creators for their contribution and efforts!
